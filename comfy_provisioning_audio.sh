@@ -34,6 +34,8 @@ CHECKPOINT_MODELS=(
     "https://civitai.com/api/download/models/125771?type=Model&format=SafeTensor&size=pruned&fp=fp16"
     "https://civitai.com/api/download/models/128713?type=Model&format=SafeTensor&size=pruned&fp=fp16"
     "https://huggingface.co/stabilityai/stable-audio-open-1.0/resolve/main/model.safetensors"
+    #PastelBoy_2D
+    "https://civitai.com/api/download/models/829544?type=Model&format=SafeTensor&size=pruned&fp=fp16"
 )
 
 UNET_MODELS=(
